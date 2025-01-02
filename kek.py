@@ -38,6 +38,8 @@ from complete.Code.tairlan import Avg_wordLength
 
 nltk.download('cmudict')
 nltk.download('stopwords')
+nltk.download('punkt_tab')
+nltk.download('punkt')
 
 style.use("ggplot")
 cmuDictionary = None
