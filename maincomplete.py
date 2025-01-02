@@ -16,6 +16,7 @@ from sklearn.preprocessing import StandardScaler
 
 nltk.download('cmudict')
 nltk.download('stopwords')
+nltk.download('punkt_tab')
 nltk.download('punkt')  # Ensure the punkt tokenizer is available
 
 style.use("ggplot")
