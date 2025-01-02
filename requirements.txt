@@ -1,0 +1,11 @@
+matplotlib
+nltk
+numpy
+pillow
+plotly
+pyfiglet
+PyPDF2
+pymupdf
+requests
+scikit-learn
+streamlit
